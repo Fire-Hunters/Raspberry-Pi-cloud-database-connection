@@ -17,7 +17,7 @@ var mailBilgi = {
     from: "mertbaba.okulmus.010@gmail.com",
     to: "mertbaba.okulmus@hotmail.com,matamatik-kimya@hotmail.com",
     subject: "Ateş Avcıları",
-    html: "<h1>Dikkat 1 nolu ateş avcısından tenlikeli durum algılandı</h1><strong>Daha detaylı bilgi için lütfen <a href='http://www.google.com'>Atesavcılari.com</a> adresini ziyaret ediniz!</strong>" //mail içeriğine html tağları da yazabiliyoruz, text özelliği gibi kullana biliyoruz
+    html: "<h1>Dikkat 1 nolu ateş avcısından tenlikeli durum algılandı</h1><strong>Daha detaylı bilgi için lütfen <a href='https://atesavcilari.herokuapp.com/posts'>Atesavcılari.com</a> adresini ziyaret ediniz!</strong>" //mail içeriğine html tağları da yazabiliyoruz, text özelliği gibi kullana biliyoruz
 };
 
 
